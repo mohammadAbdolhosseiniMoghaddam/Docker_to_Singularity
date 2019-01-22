@@ -1,5 +1,5 @@
 Bootstrap:docker  
-From:mohammadmoghaddam/sina_docker:latest
+From:mohammadmoghaddam/gpflow_tens_seaborn:latest
 
 %post
 mkdir -p /extra/moghaddam
