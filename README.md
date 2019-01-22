@@ -2,7 +2,7 @@
 
 Bootstrap:docker  
 
-From:mohammadmoghaddam/zaniar_test:latest
+From:mohammadmoghaddam/sina_docker
 
 
 
